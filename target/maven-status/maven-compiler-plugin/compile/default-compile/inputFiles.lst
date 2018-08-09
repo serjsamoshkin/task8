@@ -1,0 +1,14 @@
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\entity\authentication\User.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\controller\CharsetFilter.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\mysql\MySqlDaoFactory.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\entity\authentication\Role.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\entity\authentication\UserIsNotUnique.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\dao\AbstractJDBCDao.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\controller\MainServlet.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\dao\Identified.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\mysql\MySqlUserDao.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\dao\ManyToOne.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\mysql\MySqlRoleDao.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\dao\GenericDao.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\dao\PersistException.java
+C:\Java\source\epam tasks\task8\src\main\java\ua\testing\task8\model\dao\DaoFactory.java
